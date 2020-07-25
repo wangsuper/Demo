@@ -12,7 +12,6 @@ public class TestDemo1 {
 
     private int age;
 
-
     public String getName() {
         return name;
     }
