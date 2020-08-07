@@ -12,7 +12,7 @@ public class TestDemo1 {
 
     private int address5;
 
-    private int sex;
+    private int sex2;
 
     public String getAge() {
         return age;
