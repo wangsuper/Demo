@@ -10,7 +10,7 @@ public class TestDemo1 {
 
     private String age;
 
-    private int address3333;
+    private int address5;
 
     private int sex;
 
@@ -22,11 +22,11 @@ public class TestDemo1 {
         this.age = age;
     }
 
-    public int getAddress3333() {
-        return address3333;
+    public int getAddress5() {
+        return address5;
     }
 
-    public void setAddress(int address3333) {
-        this.address3333 = address3333;
+    public void setAddress(int address5) {
+        this.address5 = address5;
     }
 }
