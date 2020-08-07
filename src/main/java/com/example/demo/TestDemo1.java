@@ -1,7 +1,7 @@
 package com.example.demo;
 
 /**
- * <p></p>
+ * <p>主干修改age为address</p>
  *
  * @author wangc
  * @date Created in 2020-07-25 20:20
@@ -10,7 +10,7 @@ public class TestDemo1 {
 
     private String name;
 
-    private int age;
+    private int address;
 
     public String getName() {
         return name;
@@ -20,11 +20,11 @@ public class TestDemo1 {
         this.name = name;
     }
 
-    public int getAge() {
-        return age;
+    public int getAddress() {
+        return address;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setAddress(int address) {
+        this.address = address;
     }
 }
