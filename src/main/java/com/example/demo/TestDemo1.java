@@ -8,18 +8,18 @@ package com.example.demo;
  */
 public class TestDemo1 {
 
-    private String name;
+    private String age;
 
     private int address;
 
     private int sex;
 
-    public String getName() {
-        return name;
+    public String getAge() {
+        return age;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setAge(String age) {
+        this.age = age;
     }
 
     public int getAddress() {
