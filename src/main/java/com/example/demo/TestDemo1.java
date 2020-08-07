@@ -10,7 +10,7 @@ public class TestDemo1 {
 
     private String name;
 
-    private int address;
+    private int age;
 
     public String getName() {
         return name;
@@ -20,11 +20,11 @@ public class TestDemo1 {
         this.name = name;
     }
 
-    public int getAddress() {
-        return address;
+    public int getAge() {
+        return age;
     }
 
-    public void setAddress(int address) {
-        this.address = address;
+    public void setAge(int age) {
+        this.age = age;
     }
 }
