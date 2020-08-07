@@ -12,6 +12,8 @@ public class TestDemo1 {
 
     private int age;
 
+    private int sex;
+
     public String getName() {
         return name;
     }
